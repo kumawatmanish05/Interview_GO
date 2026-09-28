@@ -6,6 +6,8 @@
 
 3. ## 🎥Exploring the Top 25 Machine Learning Interview Questions!! : ▶️ [Watch the Video](https://youtu.be/ss9oh8x26Hc?si=76ApINWyHdmmyDBs)
 
+4. ## 🎥Docker One Shot !! : ▶️ [Watch the Video](https://youtu.be/8vmKtS8W7IQ?si=JzOafRRklp0NioOU)
+
 
 
 
